@@ -1,0 +1,16 @@
+{
+  "name": "sparktest",
+  "private": "true",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "spark": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjie Gillam <benjie@jemjie.com>",
+  "license": "ISC"
+}
